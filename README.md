@@ -6,6 +6,27 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+## useful angular commands
+npm install -g @angular/cli
+
+ng new ng6-proj --style=scss --routing
+
+cd ng6-proj
+
+ng serve -o
+
+ng generate component sidebar
+
+ng generate service data
+
+https://jsonplaceholder.typicode.com/users
+
+npm install @angular/animation@latest --save
+
+ng build
+
+ng build --prod
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
